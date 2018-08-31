@@ -28,7 +28,7 @@ This code was never deployed; it was an intern project and the goal was to have 
 ## Important Note
 
 As with any project, there are things that I did that I could have done better. Upon completion of the project, we did a code review and professional developers were very helpful and pointed out several things that could have been improved. I have left it as-is in order to
-1. Demonstrate progress in software development ability with the [second](https://gitlab.com/cabellwg/guaranteed-income) and [third](https://gitlab.com/cabellwg/monte-carlo) projects and
+1. Demonstrate progress in software development ability with the [second](https://github.com/cabellwg/guaranteed-income) and [third](https://github.com/cabellwg/monte-carlo) projects and
 2. Accurately demonstrate my software development skills in a limited period of development time (one two-week sprint).
 
 ---
